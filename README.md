@@ -7,3 +7,8 @@
 
 ### Cabe resaltar que este proyecto funcionará en dispositivos móviles
 ### En este caso será en iphones mediante la programación en SWIFT
+
+### Para tutorial para crear y manejar ramas en git https://www.genbetadev.com/herramientas/manejo-de-ramas-de-desarrollo-con-git
+
+
+:D
